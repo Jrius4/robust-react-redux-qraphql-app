@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/robust-react-redux-qraphql-app/static/css/main.2cce8147.chunk.css",
-    "main.js": "/robust-react-redux-qraphql-app/static/js/main.c3d672df.chunk.js",
-    "main.js.map": "/robust-react-redux-qraphql-app/static/js/main.c3d672df.chunk.js.map",
+    "main.js": "/robust-react-redux-qraphql-app/static/js/main.9e656fee.chunk.js",
+    "main.js.map": "/robust-react-redux-qraphql-app/static/js/main.9e656fee.chunk.js.map",
     "runtime~main.js": "/robust-react-redux-qraphql-app/static/js/runtime~main.7bc5b65b.js",
     "runtime~main.js.map": "/robust-react-redux-qraphql-app/static/js/runtime~main.7bc5b65b.js.map",
-    "static/js/2.b41502e9.chunk.js": "/robust-react-redux-qraphql-app/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/robust-react-redux-qraphql-app/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/robust-react-redux-qraphql-app/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.30bc8c87.chunk.js": "/robust-react-redux-qraphql-app/static/js/2.30bc8c87.chunk.js",
+    "static/js/2.30bc8c87.chunk.js.map": "/robust-react-redux-qraphql-app/static/js/2.30bc8c87.chunk.js.map",
     "index.html": "/robust-react-redux-qraphql-app/index.html",
-    "precache-manifest.1402ec2d2a586d0b257c546dcfc6697a.js": "/robust-react-redux-qraphql-app/precache-manifest.1402ec2d2a586d0b257c546dcfc6697a.js",
+    "precache-manifest.93d68d56b40a27deb1ab0eaa3d7a40e0.js": "/robust-react-redux-qraphql-app/precache-manifest.93d68d56b40a27deb1ab0eaa3d7a40e0.js",
     "service-worker.js": "/robust-react-redux-qraphql-app/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/robust-react-redux-qraphql-app/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/robust-react-redux-qraphql-app/static/media/logo.5d5d9eef.svg"
+    "static/css/2.17e5ed98.chunk.css.map": "/robust-react-redux-qraphql-app/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/robust-react-redux-qraphql-app/static/css/main.2cce8147.chunk.css.map"
   }
 }
