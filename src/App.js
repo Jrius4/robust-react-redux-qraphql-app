@@ -1,26 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {Provider} from 'react-redux';
+import ApolloClient from 'apollo-boost';
+import { ApolloProvider } from 'react-apollo';
+import store from './store';
+import Layout from './components/layout/Layout';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Happy hack Julius Jr, congrats
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Build with React
-        </a>
-      </header>
-    </div>
-  );
+const client = new ApolloClient({
+  uri: 'http://robust-restful-graphql-laravel.herokuapp.com/graphql'
+});
+class App extends React.Component{
+  render(){
+    return(
+      <Provider store={store}>
+        <ApolloProvider client={client}>
+          <Layout/>
+        </ApolloProvider>
+      </Provider>
+    )
+
+      
+
+    
+  }
 }
-
 export default App;
