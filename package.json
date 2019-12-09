@@ -6,6 +6,7 @@
     "apollo-boost": "^0.4.4",
     "axios": "^0.19.0",
     "classnames": "^2.2.6",
+    "gh-pages": "^2.1.1",
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
     "isomorphic-unfetch": "^3.0.0",
@@ -22,6 +23,9 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "deploy-gh-pages": "gh-pages -b gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,5 +45,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://jrius4.github.io/robust-react-redux-qraphql-app/"
 }
