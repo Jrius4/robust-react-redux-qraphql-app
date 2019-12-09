@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/robust-react-redux-qraphql-app/precache-manifest.fbdd3738948027fb8a3554f3645122ef.js"
+  "/robust-react-redux-qraphql-app/precache-manifest.1402ec2d2a586d0b257c546dcfc6697a.js"
 );
 
 self.addEventListener('message', (event) => {

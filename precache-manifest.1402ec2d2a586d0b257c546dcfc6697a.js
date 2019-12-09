@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "992665fea535791015c5283efe58b830",
+    "revision": "b4040a58475be774c945986193342e4e",
     "url": "/robust-react-redux-qraphql-app/index.html"
   },
   {
-    "revision": "165a993c0ec3c3d1c8d5",
+    "revision": "75d0e72ca9d396fd95c6",
     "url": "/robust-react-redux-qraphql-app/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robust-react-redux-qraphql-app/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "165a993c0ec3c3d1c8d5",
-    "url": "/robust-react-redux-qraphql-app/static/js/main.15b7ade0.chunk.js"
+    "revision": "75d0e72ca9d396fd95c6",
+    "url": "/robust-react-redux-qraphql-app/static/js/main.c3d672df.chunk.js"
   },
   {
     "revision": "9a758d5a0d09d2593c4c",
